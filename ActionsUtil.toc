@@ -2,7 +2,7 @@
 ## Title: ActionsUtil
 ## Title-zhCN: ActionsUtil
 ## Notes: Actions util
-## Version: 0.0.1
+## Version: @project-version@
 ## LoadManagers: AddonLoader
 ## OptionalDeps: LibStub, Ace3, CallbackHandler-1.0, AceAddon-3.0, AceGUI-3.0, AceConfig-3.0, AceLocale-3.0
 ## X-License: MIT/X
